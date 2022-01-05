@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `antiweaphackban` BOOL DEFAULT 0;
